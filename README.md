@@ -1,0 +1,4 @@
+# TUGAS PEMROGRAMAN GRAFIS
+
+Nim: 2141102
+Nama: Dandi Ramdani
